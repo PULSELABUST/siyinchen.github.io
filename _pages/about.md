@@ -18,7 +18,7 @@ redirect_from:
 <br/>  
 &emsp;&emsp;<font color=DarkRed size=4 face="微软雅黑"><b>CV：</b></font>
 <br/>
-&emsp;&emsp;[[Download]](../siyinchen.github.io/assets/CV.pdf)
+&emsp;&emsp;[[Download]](../assets/CV.pdf)
 <br/>
 <br/>
 &emsp;&emsp;<font color=DarkRed size=4 face="微软雅黑"><b>Contact：</b></font>
