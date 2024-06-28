@@ -1,7 +1,7 @@
 ---
 title: "Collective transcendence beliefs shape the sacredness of objects: The case of art"
 collection: publications
-permalink: /publication/2022-JPSP-1
+permalink: /publication/2023-JPSP-1
 excerpt: ''
 date: 2023-01-01
 venue: 'Journal of Personality and Social Psychology'
