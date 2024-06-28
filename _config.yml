@@ -21,14 +21,14 @@ repository               : "PULSELABUST/siyinchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "avatar.png"
   name             : "Siyin Chen"
   pronouns         : # example: "she/her"  
   bio              : "Assistant professor in mgmt HKUST"
   location         : "Clear Water Bay, Hong Kong"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "siyinchen@ust.hk" 
+  email            : #"siyinchen@ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
