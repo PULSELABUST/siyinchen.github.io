@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Siyin CHEN"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,8 +12,6 @@ redirect_from:
 
 
 
-      
-# About me
 
 
     
