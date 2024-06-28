@@ -18,7 +18,7 @@ redirect_from:
 <br/>  
 &emsp;&emsp;<font color=DarkRed size=4 face="微软雅黑"><b>CV：</b></font>
 <br/>
-&emsp;&emsp;<a href="https://github.com/PULSELABUST/siyinchen.github.io/blob/master/assets/CV.pdf">[Download]</a>
+&emsp;&emsp;<a href="https://drive.google.com/file/d/1kyLRxYHE4snlgKdevgIy2JtcPyxvZVNJ/view">[Download]</a>
 <br/>
 <br/>
 &emsp;&emsp;<font color=DarkRed size=4 face="微软雅黑"><b>Contact：</b></font>
