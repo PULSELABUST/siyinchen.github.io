@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-01-01
 venue: 'Journal of Personality and Social Psychology'
 slidesurl: ''
-paperurl: 'https://psycnet.apa.org/record/2022-79833-001'
+paperurl: 'https://pulselabust.github.io/siyinchen.github.io/files/Collective Transcendence Beliefs Shape the Sacredness of Objects_ The Case of Art.pdf'
 citation: 'Chen, S., Ruttan, R., & Feinberg, M. (2023). Collective transcendence beliefs shape the sacredness of objects: The case of art. <i>Journal of Personality and Social Psychology, 124(3)</i>, 521-543.'
 ---
 
