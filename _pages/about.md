@@ -32,4 +32,4 @@ redirect_from:
 <br/>
 <br/>
 <br/>
-&emsp;&emsp;<font color=gray size=2 face="Calibri"><i>We are not paper machines, we are scholars with a PULSE!   Peace, Unity, Love, and Small enjoyments ：)<i>
+&emsp;&emsp;<font color=gray size=2 face="Calibri"><i>We are not paper machines, we are scholars with a PULSE!   Peace, Unity, Love, and Small enjoyments ：)<i><img src="https://drive.google.com/drive/u/0/folders/1kvFiEWKx8WmrF-g-PJB_GFusOPj3xl1u" alt="Pulpit rock" width="304" height="228">
