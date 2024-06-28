@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---   
 <br/>  
-&emsp;&emsp;<font color=DarkRed size=7 face="微软雅黑"><b>About me</b></font>
+&emsp;&emsp;<font color=DarkRed size=7 face="微软雅黑"><b>Hey! I am Siyin Chen</b></font>
 <br/>
 <br/>
 &emsp;&emsp;<font color=gray size=4 face="Calibri">I am an assistant professor from the Department of Management at the Hong Kong University of Science and Technology.</font>
