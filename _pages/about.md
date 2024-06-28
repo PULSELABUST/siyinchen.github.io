@@ -18,10 +18,10 @@ redirect_from:
 <br/>  
 &emsp;&emsp;<font color=DarkRed size=4 face="Cooper">CV</font>
 <br/>
-[[Download]](../assets/CV.pdf)
+&emsp;&emsp;[[Download]](../assets/CV.pdf)
 <br/>
 &emsp;&emsp;<font color=DarkRed size=4 face="Cooper">Contact</font>
 <br/>
 &emsp;&emsp;<font color=gray size=3 face="Calibri">General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
 <br/>
-&emsp;<font color=gray size=3 face="Calibri">Apply for a RA or PhD position:</font>  [pulselabust@gmail.com](mailto:pulselabust@gmail.com)
+&emsp;&emsp;<font color=gray size=3 face="Calibri">Apply for a RA or PhD position:</font>  [pulselabust@gmail.com](mailto:pulselabust@gmail.com)
