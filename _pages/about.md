@@ -26,3 +26,6 @@ redirect_from:
 &emsp;&emsp;<font color=gray size=4 face="Calibri">General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
 <br/>
 &emsp;&emsp;<font color=gray size=4 face="Calibri">Apply for a RA or PhD position:</font>  [pulselabust@gmail.com](mailto:pulselabust@gmail.com)
+
+
+&emsp;&emsp;<font color=gray size=3 face="Calibri"><i>We are not paper machines, we are scholars with a PULSE!(Peace, unity, love, and small enjoyments )<i>
