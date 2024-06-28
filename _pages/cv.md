@@ -12,5 +12,5 @@ redirect_from:
 <br>
 <font color=Gray size=4 face="calibri"><i>Expected start: 2025 fall</i></font>
 <br>
-<font color=DarkBlue size=4 face="calibri"><a href="https://github.com/PULSELABUST/qiusiyan.github.io">Personal Website</a></font>
+<font color=DarkBlue size=4 face="calibri"><a href="https://github.com/PULSELABUST/qiusiyan.github.io">Personal Homepage</a></font>
 
