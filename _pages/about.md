@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---   
 <br/>  
-&emsp;<font color=DarkRed size=7 face="Arial">**About me**</font>
+&nbsp;<font color=DarkRed size=7 face="Arial"><b>About me</b></font>
 <br/>
 <br/>
-&emsp;<font color=gray size=3 face="Arial">I am an assistant professor from</font> [the Department of Management at the Hong Kong University of Science and Technology](https://mgmt.hkust.edu.hk).
+&nbsp;<font color=gray size=3 face="Arial">I am an assistant professor from the Department of Management at the Hong Kong University of Science and Technology.</font>
 <br/>   
-&emsp;<font color=gray size=3 face="Arial">My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production. </font>
+&nbsp;<font color=gray size=3 face="Arial">My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production. </font>
 <br/>  
 <br/>  
-&emsp;<font color=DarkRed size=4 face="Arial">**CV**</font>
+&nbsp;<font color=DarkRed size=4 face="Arial">CV</font>
 <br/>
 [[Download]](../assets/CV.pdf)
 <br/>
-&emsp;<font color=DarkRed size=4 face="Arial">**Contact**</font>
+&nbsp;<font color=DarkRed size=4 face="Arial">Contact</font>
 <br/>
 &emsp;<font color=gray size=3 face="Arial">General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
 <br/>
