@@ -32,4 +32,5 @@ redirect_from:
 <br/>
 <br/>
 <br/>
-&emsp;&emsp;<font color=gray size=3 face="Calibri"><i>We are not paper machines, we are scholars with a PULSE!(Peace, unity, love, and small enjoyments.)<i>
+&emsp;&emsp;<font color=gray size=3 face="Calibri"><i>We are not paper machines, we are scholars with a PULSE!<br>
+&emsp;&emsp;&emsp;&emsp;,Peace, Unity, Love, and Small enjoyments ：)<i>
