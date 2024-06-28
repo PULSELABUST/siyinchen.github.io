@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---   
 <br/>  
-&emsp;&emsp;<font color=DarkRed size=7 face="Impact"><b>About me</b></font>
+&emsp;&emsp;<font color=DarkRed size=7 face="Calibri"><b>About me</b></font>
 <br/>
 <br/>
 &emsp;&emsp;<font color=gray size=4 face="Calibri">I am an assistant professor from the Department of Management at the Hong Kong University of Science and Technology.</font>
@@ -16,11 +16,11 @@ redirect_from:
 &emsp;&emsp;<font color=gray size=4 face="Calibri">My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production. </font>
 <br/>  
 <br/>  
-&emsp;&emsp;<font color=DarkRed size=4 face="Calibri"><b>CV</b></font>
+&emsp;&emsp;<font color=DarkRed size=5 face="Calibri"><b>CV：</b></font>
 <br/>
 &emsp;&emsp;[[Download]](../assets/CV.pdf)
 <br/>
-&emsp;&emsp;<font color=DarkRed size=4 face="Calibri"><b>Contact</b></font>
+&emsp;&emsp;<font color=DarkRed size=5 face="Calibri"><b>Contact：</b></font>
 <br/>
 &emsp;&emsp;<font color=gray size=4 face="Calibri">General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
 <br/>
