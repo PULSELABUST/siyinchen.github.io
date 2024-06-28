@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---   
-<br/>  
+
 &emsp;&emsp;<font color=DarkRed size=7 face="微软雅黑"><b>Siyin Chen 陈思吟</b></font>
 <br/>
 <br/>
