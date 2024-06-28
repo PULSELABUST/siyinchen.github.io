@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Siyin Chen / Personal Homapage"
 title_separator          : "-"
-name                     : &name "Siyin Chen (陈思吟）"
+name                     : &name "Siyin Chen"
 description              : &description "Assistant professor in HKUST"
 url                      : https://pulselabust.github.io/siyinchen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
