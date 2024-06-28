@@ -11,7 +11,7 @@ redirect_from:
 &emsp;&emsp;<font color=DarkRed size=7 face="微软雅黑"><b>Siyin Chen 陈思吟</b></font>
 <br/>
 <br/>
-&emsp;&emsp;<font color=gray size=4 face="Calibri">I am an assistant professor from the Department of Management at the Hong Kong University of Science and Technology.</font>
+&emsp;&emsp;<font color=gray size=4 face="Calibri">I am an assistant professor of Management at the Hong Kong University of Science and Technology.</font>
 <br/>   
 &emsp;&emsp;<font color=gray size=4 face="Calibri">My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production. </font>
 <br/>  
