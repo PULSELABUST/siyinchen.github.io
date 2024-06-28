@@ -15,8 +15,11 @@ redirect_from:
       
 # About me
 
+
+    
 I am an assistant professor from [the Department of Management at the Hong Kong University of Science and Technology](https://mgmt.hkust.edu.hk).
 
+    
 My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production.
 
 
@@ -24,7 +27,11 @@ My research interest is in the area of occupations/ professions, morality, comme
      
 
 
-###### CV[Download](../assests/CV_SiyinChen.pdf)
+#### CV
+    
+[[Download]](../assests/CV.pdf)
 
-###### Contact
+   
+#### Contact
+   
 [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
