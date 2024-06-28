@@ -13,7 +13,7 @@ redirect_from:
 <br/>
 &emsp;&emsp;<font color=gray size=4 face="Calibri">I am an assistant professor of management at the Hong Kong University of Science and Technology.</font>
 <br/>   
-&emsp;&emsp;<font color=gray size=4 face="Calibri">My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production. </font>
+&emsp;&emsp;<font color=gray size=4 face="Calibri">My research interest is in the area of occupations/professions, morality, commercialization, markets and cultural production. </font>
 <br/>  
 <br/>  
 &emsp;&emsp;<font color=DarkRed size=4 face="微软雅黑"><b>CV：</b></font>
