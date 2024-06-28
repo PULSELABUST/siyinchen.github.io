@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---   
 <br/>  
-&emsp;&emsp;<font color=DarkRed size=7 face="Arial"><b>About me</b></font>
+&emsp;&emsp;<font color=DarkRed size=7 face="Cooper"><b>About me</b></font>
 <br/>
 <br/>
-&emsp;&emsp;<font color=gray size=3 face="Arial">I am an assistant professor from the Department of Management at the Hong Kong University of Science and Technology.</font>
+&emsp;&emsp;<font color=gray size=3 face="Calibri">I am an assistant professor from the Department of Management at the Hong Kong University of Science and Technology.</font>
 <br/>   
-&emsp;&emsp;<font color=gray size=3 face="Arial">My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production. </font>
+&emsp;&emsp;<font color=gray size=3 face="Calibri">My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production. </font>
 <br/>  
 <br/>  
-&emsp;&emsp;<font color=DarkRed size=4 face="Arial"><b>CV</b></font>
+&emsp;&emsp;<font color=DarkRed size=4 face="Cooper">CV</font>
 <br/>
 [[Download]](../assets/CV.pdf)
 <br/>
-&emsp;&emsp;<font color=DarkRed size=4 face="Arial">Contact</font>
+&emsp;&emsp;<font color=DarkRed size=4 face="Cooper">Contact</font>
 <br/>
-&emsp;&emsp;<font color=gray size=3 face="Arial">General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
+&emsp;&emsp;<font color=gray size=3 face="Calibri">General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
 <br/>
-&emsp;<font color=gray size=3 face="Arial">Apply for a RA or PhD position:</font>  [pulselabust@gmail.com](mailto:pulselabust@gmail.com)
+&emsp;<font color=gray size=3 face="Calibri">Apply for a RA or PhD position:</font>  [pulselabust@gmail.com](mailto:pulselabust@gmail.com)
