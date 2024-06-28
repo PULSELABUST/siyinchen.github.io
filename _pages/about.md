@@ -22,8 +22,6 @@ My research interest is in the area of occupations/ professions, morality, comme
 #### CV
     
 #### [[Download]](../assets/CV.pdf)    
-<br/>  
-<br/>  
 <br/>     
 #### Contact
    
