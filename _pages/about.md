@@ -32,4 +32,4 @@ redirect_from:
 <br/>
 <br/>
 <br/>
-&emsp;&emsp;<font color=gray size=2 face="Calibri"><i>We are not paper machines, we are scholars with a PULSE!   Peace, Unity, Love, and Small enjoyments ：)<i><a href="https://sm.ms/image/PI1Z68sJiDFeONt" target="_blank"><img src="https://s2.loli.net/2024/06/28/PI1Z68sJiDFeONt.png" width="50" height="50"></a>
+&emsp;&emsp;<a href="https://sm.ms/image/PI1Z68sJiDFeONt" target="_blank"><img src="https://s2.loli.net/2024/06/28/PI1Z68sJiDFeONt.png" width="50" height="50"></a><font color=gray size=2 face="Calibri"><i>We are not paper machines, we are scholars with a PULSE!   Peace, Unity, Love, and Small enjoyments ：)<i>
