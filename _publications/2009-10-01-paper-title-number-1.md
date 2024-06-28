@@ -3,7 +3,7 @@ title: "Collective transcendence beliefs shape the sacredness of objects: The ca
 collection: publications
 permalink: /publication/2022-JPSP-1
 excerpt: ''
-date: 2022
+date: 2022-01-01
 venue: 'Journal of Personality and Social Psychology'
 slidesurl: ''
 paperurl: 'https://psycnet.apa.org/record/2022-79833-001'
