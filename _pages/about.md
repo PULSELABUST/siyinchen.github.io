@@ -6,19 +6,15 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----  
-<br/>  
-<br/>  
+---   
 <br/>  
 <br/>  
 <br/>  
 <br/>  
 I am an assistant professor from [the Department of Management at the Hong Kong University of Science and Technology](https://mgmt.hkust.edu.hk).    
 <br/>  
-    
-My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production.
 <br/>  
-<br/>  
+My research interest is in the area of occupations/ professions, morality, commercialization, markets and cultural production. 
 <br/>  
 <br/>  
 <br/>  
