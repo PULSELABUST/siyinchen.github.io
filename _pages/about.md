@@ -11,7 +11,7 @@ redirect_from:
 &emsp;&emsp;<font color=DarkRed size=7><b>Siyin Chen 陈思吟</b></font>
 <br/>
 <br/>
-&emsp;&emsp;<font color=gray size=4>I am an assistant professor of management at the Hong Kong University of Science and Technology.</font> [My department](https://mgmt.hkust.edu.hk)
+&emsp;&emsp;<font color=gray size=4>I am an assistant professor of <a href="https://mgmt.hkust.edu.hk">management at the Hong Kong University of Science and Technology.</a></font> 
 <br/>   
 &emsp;&emsp;<font color=gray size=4>My research interest is in the area of occupations/professions, morality, commercialization, markets and cultural production. </font>
 <br/>  
