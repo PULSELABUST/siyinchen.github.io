@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Siyin Chen / Personal Homapage"
+title                    : "Siyin Chen / About me"
 title_separator          : "-"
 name                     : &name "Siyin Chen"
 description              : &description "Assistant professor"
