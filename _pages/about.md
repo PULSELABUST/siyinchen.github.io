@@ -16,16 +16,16 @@ redirect_from:
 &emsp;&emsp;<font color=gray size=4>My research interest is in the area of occupations/professions, morality, commercialization, markets and cultural production. </font>
 <br/>  
 <br/>  
-&emsp;&emsp;<font color=DarkRed size=4><b>CV：</b></font>
+&emsp;&emsp;<font color=DarkRed><b>CV：</b></font>
 <br/>
 &emsp;&emsp;<a href="https://drive.google.com/file/d/1kyLRxYHE4snlgKdevgIy2JtcPyxvZVNJ/view">[Download]</a>
 <br/>
 <br/>
-&emsp;&emsp;<font color=DarkRed size=4><b>Contact：</b></font>
+&emsp;&emsp;<font color=DarkRed><b>Contact：</b></font>
 <br/>
-&emsp;&emsp;<font color=gray size=4>General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
+&emsp;&emsp;<font color=gray>General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
 <br/>
-&emsp;&emsp;<font color=gray size=4>Apply for a RA or PhD position:</font>  [pulselabust@gmail.com](mailto:pulselabust@gmail.com)
+&emsp;&emsp;<font color=gray>Apply for a RA or PhD position:</font>  [pulselabust@gmail.com](mailto:pulselabust@gmail.com)
 <br/>
 <br/>
 <br/>
