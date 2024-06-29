@@ -12,5 +12,5 @@ redirect_from:
 <br>
 <font color=Gray size=4><i>Expected start: 2025 fall</i></font>
 <br>
-<font color=DarkBlue size=4><a href="https://github.com/PULSELABUST/qiusiyan.github.io">About her</a></font>
+<font color=DarkBlue size=4><a href="https://pulselabust.github.io/qiusiyan.github.io/">About her</a></font>
 
