@@ -11,14 +11,14 @@ redirect_from:
 &emsp;&emsp;<font color=DarkRed size=7><b>Siyin Chen 陈思吟</b></font>
 <br/>
 <br/>
-&emsp;&emsp;<font color=gray size=4>I am an assistant professor of management at the Hong Kong University of Science and Technology.</font>
+&emsp;&emsp;<font color=gray size=4>I am an assistant professor of management at the Hong Kong University of Science and Technology.</font> [My department](https://mgmt.hkust.edu.hk)
 <br/>   
 &emsp;&emsp;<font color=gray size=4>My research interest is in the area of occupations/professions, morality, commercialization, markets and cultural production. </font>
 <br/>  
 <br/>  
 &emsp;&emsp;<font color=DarkRed><b>CV：</b></font>
 <br/>
-&emsp;&emsp;<a href="https://drive.google.com/file/d/1kyLRxYHE4snlgKdevgIy2JtcPyxvZVNJ/view">[Download]</a>
+&emsp;&emsp;<a href="https://drive.google.com/file/d/1kyLRxYHE4snlgKdevgIy2JtcPyxvZVNJ/view">Download</a>
 <br/>
 <br/>
 &emsp;&emsp;<font color=DarkRed><b>Contact：</b></font>
