@@ -11,9 +11,9 @@ redirect_from:
 &emsp;&emsp;<font color=DarkRed size=7 face="微软雅黑"><b>Siyin Chen 陈思吟</b></font>
 <br/>
 <br/>
-&emsp;&emsp;<font color=gray size=4 face="Calibri">I am an assistant professor of management at the Hong Kong University of Science and Technology.</font>
+&emsp;&emsp;<font color=gray size=4 face="微软雅黑">I am an assistant professor of management at the Hong Kong University of Science and Technology.</font>
 <br/>   
-&emsp;&emsp;<font color=gray size=4 face="Calibri">My research interest is in the area of occupations/professions, morality, commercialization, markets and cultural production. </font>
+&emsp;&emsp;<font color=gray size=4 face="微软雅黑">My research interest is in the area of occupations/professions, morality, commercialization, markets and cultural production. </font>
 <br/>  
 <br/>  
 &emsp;&emsp;<font color=DarkRed size=4 face="微软雅黑"><b>CV：</b></font>
@@ -23,13 +23,13 @@ redirect_from:
 <br/>
 &emsp;&emsp;<font color=DarkRed size=4 face="微软雅黑"><b>Contact：</b></font>
 <br/>
-&emsp;&emsp;<font color=gray size=4 face="Calibri">General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
+&emsp;&emsp;<font color=gray size=4 face="微软雅黑">General:</font> [siyinchen@ust.hk](mailto:siyinchen@ust.hk)
 <br/>
-&emsp;&emsp;<font color=gray size=4 face="Calibri">Apply for a RA or PhD position:</font>  [pulselabust@gmail.com](mailto:pulselabust@gmail.com)
-<br/>
-<br/>
+&emsp;&emsp;<font color=gray size=4 face="微软雅黑">Apply for a RA or PhD position:</font>  [pulselabust@gmail.com](mailto:pulselabust@gmail.com)
 <br/>
 <br/>
 <br/>
 <br/>
-&emsp;&emsp;<a href="https://sm.ms/image/PI1Z68sJiDFeONt" target="_blank"><img src="https://s2.loli.net/2024/06/28/PI1Z68sJiDFeONt.png" width="70" height="70"></a><font color=gray size=2 face="Calibri"><i>We are not paper machines, we are scholars with a PULSE!   Peace, Unity, Love, and Small enjoyments ：)<i>
+<br/>
+<br/>
+&emsp;&emsp;<a href="https://sm.ms/image/PI1Z68sJiDFeONt" target="_blank"><img src="https://s2.loli.net/2024/06/28/PI1Z68sJiDFeONt.png" width="70" height="70"></a><font color=gray size=2 face="微软雅黑"><i>We are not paper machines, we are scholars with a PULSE!   Peace, Unity, Love, and Small enjoyments ：)<i>
