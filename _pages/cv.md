@@ -10,7 +10,7 @@ redirect_from:
 <br>
 <font color=Black size=4 face="微软雅黑"><b>Qiusi Yan</b>
 <br>
-<font color=Gray size=4 face="calibri"><i>Expected start: 2025 fall</i></font>
+<font color=Gray size=4 face="微软雅黑"><i>Expected start: 2025 fall</i></font>
 <br>
-<font color=DarkBlue size=4 face="calibri"><a href="https://github.com/PULSELABUST/qiusiyan.github.io">Personal Homepage</a></font>
+<font color=DarkBlue size=4 face="微软雅黑"><a href="https://github.com/PULSELABUST/qiusiyan.github.io">Personal Homepage</a></font>
 
