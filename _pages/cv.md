@@ -8,7 +8,7 @@ redirect_from:
 ---
 <font color=DarkRed size=5 face="微软雅黑"><b>Post-graduate Students</b></font>
 <br>
-<font color=Black size=4><b>Qiusi Yan</b>
+<font color=Black size=5><b>Qiusi Yan</b>
 <br>
 <font color=Gray size=4><i>Expected start: 2025 fall</i></font>
 <br>
